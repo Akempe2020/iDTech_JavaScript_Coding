@@ -1,2 +1,2 @@
 # JavaScript Coding
-Hello!
+Hello, this is Alexander Kempe's JavaScript Portfolio.
