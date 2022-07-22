@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+This assignment involved making a game where PacMen would spawn at random locations at the press of a button and bounce off the sides of the screen. They would move at different speeds and in different directions.
